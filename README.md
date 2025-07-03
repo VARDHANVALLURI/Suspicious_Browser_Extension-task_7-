@@ -1,4 +1,3 @@
-# Suspicious_Browser_Extension-task_7-
 
 # Task 7: Identify and Remove Suspicious Browser Extensions
 
@@ -24,6 +23,8 @@ Learned to identify and remove potentially harmful browser extensions and unders
 - Reporting malicious extensions.
 - Difference between plugins and extensions.
 
+## Screenshots
+Included in this repository.
 
 ---
 
